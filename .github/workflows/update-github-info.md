@@ -9,7 +9,7 @@ permissions:
 engine:
   id: copilot
   copilot-sdk: true
-  model: gpt-5-mini
+  model: gpt-6-luna
 tools:
   edit: true
   web-fetch: {}
