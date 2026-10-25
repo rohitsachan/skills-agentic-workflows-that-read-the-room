@@ -9,6 +9,7 @@ permissions:
 engine:
   id: copilot
   copilot-sdk: true
+  model: gpt-5-mini
 tools:
   edit: true
   web-fetch: {}
